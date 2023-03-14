@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\bin\Debug\LargestValue.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\bin\Debug\LargestValue.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\bin\Debug\LargestValue.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\obj\Debug\LargestValue.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\obj\Debug\LargestValue.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\obj\Debug\LargestValue.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\obj\Debug\LargestValue.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\LargestValue\obj\Debug\LargestValue.pdb

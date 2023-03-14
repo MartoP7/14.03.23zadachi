@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\bin\Debug\PrintReceipt.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\bin\Debug\PrintReceipt.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\bin\Debug\PrintReceipt.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\obj\Debug\PrintReceipt.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\obj\Debug\PrintReceipt.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\obj\Debug\PrintReceipt.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\obj\Debug\PrintReceipt.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\PrintReceipt\obj\Debug\PrintReceipt.pdb

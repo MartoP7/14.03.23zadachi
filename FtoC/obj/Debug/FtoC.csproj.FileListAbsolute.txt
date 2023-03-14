@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\bin\Debug\FtoC.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\bin\Debug\FtoC.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\bin\Debug\FtoC.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\obj\Debug\FtoC.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\obj\Debug\FtoC.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\obj\Debug\FtoC.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\obj\Debug\FtoC.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\FtoC\obj\Debug\FtoC.pdb

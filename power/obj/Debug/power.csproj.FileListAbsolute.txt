@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\obj\Debug\power.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\obj\Debug\power.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\obj\Debug\power.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\bin\Debug\power.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\bin\Debug\power.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\bin\Debug\power.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\obj\Debug\power.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\power\obj\Debug\power.pdb

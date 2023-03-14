@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\bin\Debug\triangleArea.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\bin\Debug\triangleArea.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\bin\Debug\triangleArea.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\obj\Debug\triangleArea.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\obj\Debug\triangleArea.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\obj\Debug\triangleArea.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\obj\Debug\triangleArea.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\triangleArea\obj\Debug\triangleArea.pdb

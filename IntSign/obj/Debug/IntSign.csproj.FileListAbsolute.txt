@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\bin\Debug\IntSign.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\bin\Debug\IntSign.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\bin\Debug\IntSign.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\obj\Debug\IntSign.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\obj\Debug\IntSign.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\obj\Debug\IntSign.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\obj\Debug\IntSign.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\14.03.23\IntSign\obj\Debug\IntSign.pdb
